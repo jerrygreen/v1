@@ -1,0 +1,3 @@
+import{S as v,i as _,s as g,l as i,u as c,m as d,p as f,v as m,h as o,q as x,b as y,H as p,n as l}from"../../chunks/index-a2915f88.js";function w(u){let e,s,t,n;return{c(){e=i("p"),s=c(`The website under development, for now please go to:
+  `),t=i("a"),n=c("https://jerrygreen.vercel.app/"),this.h()},l(a){e=d(a,"P",{});var r=f(e);s=m(r,`The website under development, for now please go to:
+  `),t=d(r,"A",{href:!0});var h=f(t);n=m(h,"https://jerrygreen.vercel.app/"),h.forEach(o),r.forEach(o),this.h()},h(){x(t,"href","https://jerrygreen.vercel.app/")},m(a,r){y(a,e,r),p(e,s),p(e,t),p(t,n)},p:l,i:l,o:l,d(a){a&&o(e)}}}class j extends v{constructor(e){super(),_(this,e,null,w,g,{})}}export{j as default};
